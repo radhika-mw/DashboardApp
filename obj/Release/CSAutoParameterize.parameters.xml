@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DashboardAppEntities-Web.config Connection String" description="DashboardAppEntities Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/DashboardAppModel.csdl|res://*/DashboardAppModel.ssdl|res://*/DashboardAppModel.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=(local);initial catalog=DashboardApp;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Radhika\.makhecha\\OneDrive\ -\ Motifworks\ Inc\\Training\\Azure\ PaaS\\Modernizing\ Your\ Websites\ with\ Azure\ Platform\ as\ a\ Service\\demos\\DashboardApp\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DashboardAppEntities']/@connectionString" />
+  </parameter>
+</parameters>
